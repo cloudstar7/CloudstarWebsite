@@ -27,7 +27,7 @@ function HomePage() {
           padding: '1rem',
           fontSize: '2rem',
           background: 'lavender',
-          color: 'black'
+          color: 'gray'
         }}
         onClick={() => alert('Welcome!!:D')}
       >
